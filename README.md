@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### I’m currently working on Image classification project using Deep Neural Network...
+### I’m currently learning implementation of different architechtures to improve the accuracy of my model...
+### I’m looking to collaborate on interesting projects working around ML and DL...
+### How to reach me: aslatharvalawand@gmail.com
 <!--
 **atlawand/atlawand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
